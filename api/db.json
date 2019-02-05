@@ -4,6 +4,11 @@
       "title": "My Stream",
       "description": "This is a great stream!",
       "id": 1
+    },
+    {
+      "title": "Lou's Stream",
+      "description": "Watch Lou sleep - it's the most fun on the internet",
+      "id": 2
     }
   ]
 }
