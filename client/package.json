@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "env-cmd": "^8.0.2",
+    "lodash": "^4.17.11",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-redux": "^6.0.0",
